@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87FD41ED-5478-4494-9F5B-0E65F6571280"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "salyPW1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - ebe313935e7ab06a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.firstView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - e12aab709d51cf16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.firstView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - 3581ea4d246cfe15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.firstView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - 82ca45ace50ea945"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.firstView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - 7b654af589d3c4cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; salyPW1.ViewController"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - 2c1c78135cf4bce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;salyPW1.ViewController&gt;"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - 7b654af589d3c48d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; salyPW1.ViewController"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "6860D2B0-B4CA-4079-8064-8D9141F100EB - 2c1c78135cf4bca7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "salyPW1.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;salyPW1.ViewController&gt;"
+                  moduleName = "salyPW1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/seif/2nd%20Course/IOS/ios%20codes/salyPW1/salyPW1/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
